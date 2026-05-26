@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpncrypt",
+        "uuid": 1715165,
+        "checksum": "y1u0oj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
